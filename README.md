@@ -1,4 +1,4 @@
-# threatintel-research
+# THREAT ACTOR ANALYSIS
  Public IOC collection and threat actor notes
 -----------------------------------------------
 ---
@@ -7,7 +7,7 @@
 
 - **Alias:** logic, l0gic
 - **Affiliation:** The Community
-- **Type:** Solo operator — botnet herder, malware developer
+- **Type:** Solo operator — botnet herder, malware developer, and data distributor 
 - **First observed:** 2022-23?
 - **Status:** Active
 
@@ -17,9 +17,11 @@
 The Community — a decentralized collective of botnet operators and
 malware developers.
 
+- recently got into data distribution
+
 ## Known Groups:
 - b0v (board 0f violence) : a group that focuses on stolen data and distribution of stolen data
-- No other groups are yet to be researched or known.
+- INSR (insurgence) : recently found out, not much known/researched
 
 ### Tooling
 
